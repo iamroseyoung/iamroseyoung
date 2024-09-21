@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📚 With every moment, I strive to learn, grow, and evolve into a better version of myself.     
 
 #### Current Interests
-DDD, DevOps, Platform Engineering, DevCulture 
+DDD, DevOps, Platform Engineering, DevCulture ...
