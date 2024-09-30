@@ -13,3 +13,8 @@ Here are some ideas to get you started:
 
 #### Current Interests
 DDD, DevOps, Platform Engineering, DevCulture ...
+
+![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=JAVA&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-F2F4F9?style=for-the-badge&logo=spring)
+![maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)   
