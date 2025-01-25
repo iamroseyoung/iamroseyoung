@@ -5,11 +5,14 @@
 
 Here are some ideas to get you started:
 -->
-- 👩🏻‍💻 I'm architect, evangelist, learner, runner. 
-- 🔭 I’m currently working on IT Company
-- 🌱 I’m currently learning Cloud, DevOp and Running.   
-- 💬 Ask me about software architecture.
-- 📚 With every moment, I strive to learn, grow, and evolve into a better version of myself.     
+- 👩🏻‍💻 I’m an experienced software architect, an evangelist, and a lifelong learner. 
+  🏃‍♀️ I’ve recently started my journey as a beginner runner, 
+     inspired by the style of Haruki Murakami embracing mindfulness and consistency with every step.
+- 🔭 I’m currently working in the IT industry.I
+- 🌱 I’m exploring AI technology while improving my IT professional skills.   
+- 💬 Feel free to ask me about software architecture and DevOps.
+- 📚 With every moment, I strive to learn, grow, and evolve into a better version of myself.  
+   
 
 #### Current Interests
 DDD, DevOps, Platform Engineering, DevCulture ...
