@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 👩🏻‍💻 I’m an experienced software architect, an evangelist, and a lifelong learner. 
-  🏃‍♀️ I’ve recently started my journey as a beginner runner, 
+- 👩🏻‍💻 I’m an experienced software architect, an evangelist, and a lifelong learner.
+- 🏃‍♀️ I’ve recently started my journey as a beginner runner, 
      inspired by the style of Haruki Murakami embracing mindfulness and consistency with every step.
 - 🔭 I’m currently working in the IT industry.I
 - 🌱 I’m exploring AI technology while improving my IT professional skills.   
